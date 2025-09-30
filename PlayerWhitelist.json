@@ -6,11 +6,26 @@
       "level": 2,
       "tags": [
         {
-          "text": "",
+          "text": "AC MOD",
           "color": [
-            255,
-            255,
-            255
+            160,
+            34,
+            160
+          ]
+        }
+      ]
+    },
+  "1393811419585183774": {
+      "hash": "e7af81f28491c7200c7b3074ce676d8a45cb3440717701aaf2112c74b2407ec5b363681ce6620b9404efe79aed5275814085a80e48dcbefb110ea5baffd92d97",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "AC MOD",
+          "color": [
+            160,
+            34,
+            160
           ]
         }
       ]
