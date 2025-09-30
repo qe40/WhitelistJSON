@@ -30,6 +30,13 @@
         }
       ]
     },
+  "BlacklistedUsers": {},
+    "Announcement": {
+      "text": "hello there :)",
+      "expiretime": 1719510977.4331613,
+      "targets": "2529295875"
+  },
+  "KillVape": false
 }
 
   
